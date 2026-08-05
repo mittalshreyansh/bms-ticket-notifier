@@ -1,5 +1,38 @@
 {
-  "shows": {},
+  "shows": {
+    "INTO|88602|20260807|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "11:45 AM",
+      "date": "20260807",
+      "cat": "CLUB",
+      "price": "210.98",
+      "status": "3"
+    },
+    "INTO|88602|20260807|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "11:45 AM",
+      "date": "20260807",
+      "cat": "EXECUTIVE",
+      "price": "61.74",
+      "status": "0"
+    },
+    "INTO|88683|20260808|CLUB": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "11:45 AM",
+      "date": "20260808",
+      "cat": "CLUB",
+      "price": "210.98",
+      "status": "3"
+    },
+    "INTO|88683|20260808|EXECUTIVE": {
+      "venue": "INOX: The Marina Mall, OMR",
+      "time": "11:45 AM",
+      "date": "20260808",
+      "cat": "EXECUTIVE",
+      "price": "61.74",
+      "status": "0"
+    }
+  },
   "dates": {
     "20260805": "AVAILABLE",
     "20260806": "AVAILABLE",
